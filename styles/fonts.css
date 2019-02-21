@@ -1,0 +1,19 @@
+/**
+ * Created by hejing on 2016/11/5.
+ */
+@font-face {
+    font-family: "Line";
+    src: url("../fonts/Line.ttf");
+}
+@font-face {
+    font-family: "Mononoki";
+    src: url("../fonts/Mononoki.ttf");
+}
+@font-face {
+    font-family: "SiYuan";
+    src: url("../fonts/NotoSansCJKsc.otf");
+}
+@font-face {
+    font-family: "XinQN";
+    src: url("../fonts/XinQingNian.otf");
+}
