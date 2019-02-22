@@ -14,8 +14,10 @@ function prepareSlideshow(){
     slideshow.setAttribute("id","slideshow");
     var preview = document.createElement("img");
     preview.setAttribute("id","preview");
-    preview.setAttribute("src","images/topics.webp");
-    preview.setAttribute("alt","看的一些书籍");
+    preview.setAttribute("src","images/topics.png");
+//      preview.setAttribute("src","images/topics.webp");
+//     preview.setAttribute("alt","看的一些书籍");
+    preview.setAttribute("alt","笑笑就好");
     slideshow.appendChild(preview);
     var list = document.getElementById("linklist");
     var listParent = list.parentNode;
